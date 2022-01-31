@@ -5,5 +5,5 @@ It is added as an simple one line file.
  Now adding second line.
  
  # adding line 3
- now I added third line.
+ this is the line added to have conflict in other branch
  
