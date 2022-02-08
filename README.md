@@ -7,11 +7,11 @@ It is added as an simple one line file.
  # adding line 3
  made this to conflit in master
  
- #new line
+ # new line
  hello. how are you 
  
- #new change for git push
+ # new change for git push
  hey how do you do?
 
- #installed visual studio 
+ # installed visual studio 
  so just making changes
